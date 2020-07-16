@@ -1,9 +1,9 @@
 {
-    "name": "jxlwqq/star-rating",
+    "name": "laradvance/admin-star-rating",
     "description": "Star Rating extension for laravel-admin.",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/star-rating",
+    "homepage": "https://github.com/laradvance/admin-star-rating",
     "license": "MIT",
     "authors": [
         {
